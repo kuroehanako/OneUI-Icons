@@ -1,6 +1,54 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; }</style>
- </defs>
- <path d="m7 0c-1.108 0-2 0.892-2 2v1h-2c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-1h2c1.108 0 2-0.892 2-2v-4.5859-1.4141l-5-5h-1-2zm0 1h2v4 1h5v5c0 0.554-0.446 1-1 1h-2v-2.5859-1.4141l-5-5v-1c0-0.1385 0.027656-0.27091 0.078125-0.39062 0.15141-0.35916 0.50638-0.60938 0.92188-0.60938zm3 0.41406 3.5859 3.5859h-3.5859v-3.5859zm-7 2.5859h2v4 1h5v5c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-9c0-0.1385 0.027656-0.27091 0.078125-0.39062 0.15141-0.35916 0.50638-0.60938 0.92188-0.60938zm3 0.41406 3.5859 3.5859h-3.5859v-3.5859z" style="fill:currentColor" class="ColorScheme-Text"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg960"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="folder-txt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview962"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="25.552268"
+     inkscape:cx="12.484215"
+     inkscape:cy="8.8250483"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="false" />
+  <defs
+     id="defs957">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Text { color:#dedede; }</style>
+  </defs>
+  <g
+     inkscape:label="레이어 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="ColorScheme-Text"
+       d="M 2.38125,0.26458333 H 1.0195278 c -0.1199445,0 -0.2187222,0.098778 -0.2257778,0.22577778 V 3.742884 c 0,0.1199445 0.098778,0.2187223 0.2257778,0.2257778 h 2.2014214 c 0.1199445,0 0.2187223,-0.098778 0.2187223,-0.2257778 l -5e-7,-2.4199675 z m 0,1.05824517 V 0.57846741 L 3.1255229,1.3227404 Z"
+       id="path18"
+       style="fill:currentColor;stroke-width:0.0705555"
+       sodipodi:nodetypes="cscscsscccccc" />
+  </g>
 </svg>

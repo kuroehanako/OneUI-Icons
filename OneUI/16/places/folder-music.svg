@@ -1,6 +1,51 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
- </defs>
- <path d="m13.374-1.5321e-7 -7.3774 1.9053c-0.55422 0.14836-1.0009 0.73837-1.0009 1.3116v9.0892c-0.562-0.294-1.2839-0.41299-2.0322-0.21874-1.3503 0.35052-2.1966 1.4838-1.9071 2.5303 0.28945 1.0465 1.6203 1.6309 2.9706 1.2804 1.0773-0.27964 1.82-1.071 1.9384-1.9053l0.031278-8.5892 7.0021-1.8741v6.7776c-0.562-0.294-1.2831-0.41299-2.0314-0.21874-1.3503 0.35052-2.1966 1.4838-1.9071 2.5303 0.28945 1.0465 1.6194 1.6309 2.9697 1.2804 1.0773-0.27964 1.82-1.071 1.9384-1.9053l0.031279-11.181c0-0.42993-0.26627-0.752-0.62557-0.81248z" style="fill:currentColor" class="ColorScheme-Text"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="music.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="16px"
+     inkscape:zoom="17.567184"
+     inkscape:cx="-5.6355076"
+     inkscape:cy="9.3071262"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; }
+    </style>
+  </defs>
+  <path
+     id="path8"
+     style="fill:currentColor;stroke-width:0.999999"
+     class="ColorScheme-Text"
+     d="M 8.609375 0.40039062 A 0.99981711 1.002924 0 0 0 7.609375 1.4003906 L 7.609375 7.5722656 C 6.9085656 7.1215214 6.0930146 6.8815378 5.2597656 6.8808594 C 2.8576237 6.8810631 0.91037225 8.8283269 0.91015625 11.230469 C 0.91037225 13.632611 2.8576237 15.579874 5.2597656 15.580078 C 7.592538 15.575354 9.5063281 13.731379 9.5976562 11.400391 L 9.609375 11.400391 L 9.609375 11.230469 L 9.609375 2.40625 C 11.730397 2.5224085 13.390692 4.2117372 13.390625 6.3359375 C 13.543915 7.7623123 15.37253 7.5622419 15.390625 6.3359375 C 15.390669 3.1073281 12.835838 0.52201147 9.609375 0.40429688 L 9.609375 0.40039062 L 8.609375 0.40039062 z "
+     transform="scale(0.26458333)" />
 </svg>
