@@ -1,10 +1,56 @@
-<svg width="22" height="22" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <g transform="translate(-405 381)">
-  <path transform="translate(405,-381)" d="m11 2.0039c-4.9706 0-9 4.0294-9 9 0 4.9706 4.0294 9 9 9 4.9706 0 9-4.0294 9-9 0-4.9706-4.0294-9-9-9zm0 3.9961 3 5h-2v5h-2v-5h-2l3-5z" class="ColorScheme-Text" fill="currentColor"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="update-none.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="22px"
+     inkscape:zoom="13.129687"
+     inkscape:cx="6.5500418"
+     inkscape:cy="20.67833"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+     .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#3daee9; }
+    </style>
+  </defs>
+  <g
+     inkscape:label="레이어 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path847"
+       style="fill:currentColor;stroke-width:2.04555"
+       class="ColorScheme-Text"
+       d="m 11,4 a 6.9999999,6.9999999 0 0 0 -7,7 6.9999999,6.9999999 0 0 0 7,7 6.9999999,6.9999999 0 0 0 7,-7 6.9999999,6.9999999 0 0 0 -7,-7 z m 0,3 c 2.209139,-2e-7 4,1.7908609 4,4 h 0.900391 L 14.5,12.400391 13.099609,11 H 14 c 0,-1.6568543 -1.343146,-3.0000001 -3,-3 -1.6568543,-1e-7 -3.0000001,1.3431457 -3,3 -1e-7,1.656854 1.3431457,3 3,3 v 1 c -2.2091391,0 -4.0000002,-1.790861 -4,-4 -2e-7,-2.2091391 1.7908609,-4.0000002 4,-4 z"
+       transform="scale(0.26458333)" />
+  </g>
 </svg>
