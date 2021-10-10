@@ -1,28 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
-	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
-	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
-	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
-	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
-]>
-<svg version="1.1" id="레이어_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16"
-	 style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#363636;}
-</style>
-<metadata>
-	<sfw  xmlns="&ns_sfw;">
-		<slices></slices>
-		<sliceSourceBounds  bottomLeftOrigin="true" height="12" width="12" x="2" y="-14"></sliceSourceBounds>
-	</sfw>
-</metadata>
-<path class="st0" d="M12.6,9.2v2.5L4.3,3.4h2.5c0.4,0,0.7-0.3,0.7-0.7S7.2,2,6.8,2L2.7,2c0,0-0.3,0-0.5,0.2C2,2.4,2,2.6,2,2.7
-	C2,4,2,5.4,2,6.8c0,0.4,0.3,0.7,0.7,0.7s0.7-0.3,0.7-0.7V4.3l8.3,8.3H9.2c-0.4,0-0.7,0.3-0.7,0.7c0,0.4,0.3,0.7,0.7,0.7l4.1,0
-	c0,0,0.3,0,0.5-0.2c0.2-0.2,0.2-0.4,0.2-0.5c0-1.4,0-2.7,0-4.1c0-0.4-0.3-0.7-0.7-0.7C12.9,8.5,12.6,8.8,12.6,9.2z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="window-maximize.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="24px"
+     inkscape:zoom="16.520833"
+     inkscape:cx="3.6620429"
+     inkscape:cy="10.562421"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect846-1"
+     style="fill:#363636;stroke-width:0.0855523"
+     d="m 2.5068235,0.52921966 c -0.070091,0.00349 -0.1255736,0.061287 -0.1255736,0.1322917 0,0.073287 0.059007,0.1322917 0.1322916,0.1322917 H 3.2525147 L 0.7938006,3.2526171 V 2.5135932 c 0,-0.073287 -0.059002,-0.1322917 -0.1322916,-0.1322917 -0.07329,0 -0.1322917,0.059007 -0.1322917,0.1322917 v 1.0036073 0.048059 c -1.139e-4,0.0023 0,0.00443 0,0.00672 0,0.073287 0.059002,0.1322917 0.1322917,0.1322917 h 0.054777 l 1.003506,-5.3e-5 c 0.073289,2e-7 0.1322916,-0.059007 0.1322916,-0.1322914 0,-0.073287 -0.059002,-0.1322971 -0.1322916,-0.1322917 l -0.7389225,5.3e-5 2.4587142,-2.45881631 V 1.7198437 c 0,0.073287 0.058996,0.1322917 0.1322916,0.1322917 0.073287,0 0.1322917,-0.059007 0.1322917,-0.1322917 V 0.71628836 0.66822926 c 1.146e-4,-0.00229 0,-0.00443 0,-0.00672 0,-0.070996 -0.055484,-0.1287615 -0.1255737,-0.1322917 -0.00229,-1.145e-4 -0.00443,0 -0.00672,0 H 3.5170985 2.513542 c -0.0023,0 -0.00443,-1.145e-4 -0.00672,0 z"
+     sodipodi:nodetypes="cssccsssccssccssccsssccssscscc" />
 </svg>
