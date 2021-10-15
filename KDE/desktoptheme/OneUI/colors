@@ -76,11 +76,11 @@ ForegroundVisited=224,64,251
 
 [Colors:Selection]
 BackgroundAlternate=82,148,226
-BackgroundNormal=50,129,234
+BackgroundNormal=62,145,255
 DecorationFocus=88,177,244
 DecorationHover=111,181,255
 ForegroundActive=255,128,224
-ForegroundInactive=142,203,233
+ForegroundInactive=179,217,255
 ForegroundLink=138,204,244
 ForegroundNegative=156,14,14
 ForegroundNeutral=255,221,0
@@ -131,8 +131,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=224,64,251
 
 [General]
-ColorScheme=Orchis
-Name=Orchis
+ColorScheme=OneUI
+Name=OneUI
 shadeSortColumn=true
 
 [KDE]
